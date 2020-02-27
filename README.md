@@ -22,6 +22,6 @@ This app uses a local fake database created using fake-server.
 5. Enjoy the app
 
 #### This is how the App looks like:
-![](readme-img/cap1.png)
-![](readme-img/cap2.png)
-![](readme-img/cap3.png)
+![](readme-img/cap1.PNG)
+![](readme-img/cap2.PNG)
+![](readme-img/cap3.PNG)
