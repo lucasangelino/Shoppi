@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "GPS",
+      "precio": 435,
+      "id": 1
+    },
+    {
+      "nombre": "Notebook HP Pro",
+      "precio": "78900",
+      "id": 2
+    },
+    {
+      "nombre": "Mouse Logitech",
+      "precio": 500,
+      "id": 3
+    },
+    {
+      "nombre": "Teclado mecanico Razer ",
+      "precio": 4999,
+      "id": 4
+    },
+    {
+      "nombre": "HDMI",
+      "precio": 150,
+      "id": 5
+    }
+  ]
+}
